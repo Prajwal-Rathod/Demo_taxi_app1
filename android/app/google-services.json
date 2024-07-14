@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "380165260021",
+    "firebase_url": "https://coastal-walker-394903-default-rtdb.firebaseio.com",
+    "project_id": "coastal-walker-394903",
+    "storage_bucket": "coastal-walker-394903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380165260021:android:8cbab0af58ca4c3739fbbc",
+        "android_client_info": {
+          "package_name": "com.prajwal.driver1app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
